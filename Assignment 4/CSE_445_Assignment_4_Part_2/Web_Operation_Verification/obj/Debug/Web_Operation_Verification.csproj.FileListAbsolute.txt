@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\CSE_445_Assignment_4_Part_2\Web_Operation_Verification\bin\Web_Operation_Verification.dll.config
+C:\Users\Owner\source\repos\CSE_445_Assignment_4_Part_2\Web_Operation_Verification\bin\Web_Operation_Verification.dll
+C:\Users\Owner\source\repos\CSE_445_Assignment_4_Part_2\Web_Operation_Verification\bin\Web_Operation_Verification.pdb
+C:\Users\Owner\source\repos\CSE_445_Assignment_4_Part_2\Web_Operation_Verification\obj\Debug\Web_Operation_Verification.csprojResolveAssemblyReference.cache
+C:\Users\Owner\source\repos\CSE_445_Assignment_4_Part_2\Web_Operation_Verification\obj\Debug\Web_Operation_Verification.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\CSE_445_Assignment_4_Part_2\Web_Operation_Verification\obj\Debug\Web_Operation_Verification.dll
+C:\Users\Owner\source\repos\CSE_445_Assignment_4_Part_2\Web_Operation_Verification\obj\Debug\Web_Operation_Verification.pdb

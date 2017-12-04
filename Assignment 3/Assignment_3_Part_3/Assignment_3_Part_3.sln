@@ -1,0 +1,136 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaturalHazardService", "NaturalHazardService\NaturalHazardService.csproj", "{9681D427-AEB9-4CFD-930C-A9F2DC5D88B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Team37_Elected_Service_Sukanya", "Team37_Elected_Service_Sukanya\Team37_Elected_Service_Sukanya.csproj", "{704543DB-B4BA-4383-9A1F-7BC60E9EA14C}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TryItNewsService", "TryItNewsService\", "{B04B50D6-2EDB-4D52-9CFE-50D3D0896FBD}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59584"
+		Debug.AspNetCompiler.PhysicalPath = "TryItNewsService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59584\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59584"
+		Release.AspNetCompiler.PhysicalPath = "TryItNewsService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59584\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59584"
+		SlnRelativePath = "TryItNewsService\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{704543DB-B4BA-4383-9A1F-7BC60E9EA14C} = {704543DB-B4BA-4383-9A1F-7BC60E9EA14C}
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TryItPageNaturalHazards", "TryItPageNaturalHazards\", "{F3CCA573-E18E-4ECD-A001-704E381E39F6}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53314"
+		Debug.AspNetCompiler.PhysicalPath = "TryItPageNaturalHazards\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53314\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53314"
+		Release.AspNetCompiler.PhysicalPath = "TryItPageNaturalHazards\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53314\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53314"
+		SlnRelativePath = "TryItPageNaturalHazards\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TryItPageNewsFocus", "TryItPageNewsFocus\", "{3BE17419-CB4D-484D-BD75-1EA60EA4E5F6}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53727"
+		Debug.AspNetCompiler.PhysicalPath = "TryItPageNewsFocus\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53727\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53727"
+		Release.AspNetCompiler.PhysicalPath = "TryItPageNewsFocus\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53727\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53727"
+		SlnRelativePath = "TryItPageNewsFocus\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TryItPageNewsHeadlines", "TryItPageNewsHeadlines\", "{CA32CB02-EBB6-4A61-8A15-B8744864696B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60715"
+		Debug.AspNetCompiler.PhysicalPath = "TryItPageNewsHeadlines\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60715\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60715"
+		Release.AspNetCompiler.PhysicalPath = "TryItPageNewsHeadlines\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60715\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60715"
+		SlnRelativePath = "TryItPageNewsHeadlines\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9681D427-AEB9-4CFD-930C-A9F2DC5D88B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9681D427-AEB9-4CFD-930C-A9F2DC5D88B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9681D427-AEB9-4CFD-930C-A9F2DC5D88B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9681D427-AEB9-4CFD-930C-A9F2DC5D88B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{704543DB-B4BA-4383-9A1F-7BC60E9EA14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704543DB-B4BA-4383-9A1F-7BC60E9EA14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704543DB-B4BA-4383-9A1F-7BC60E9EA14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704543DB-B4BA-4383-9A1F-7BC60E9EA14C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B04B50D6-2EDB-4D52-9CFE-50D3D0896FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04B50D6-2EDB-4D52-9CFE-50D3D0896FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04B50D6-2EDB-4D52-9CFE-50D3D0896FBD}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04B50D6-2EDB-4D52-9CFE-50D3D0896FBD}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{F3CCA573-E18E-4ECD-A001-704E381E39F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CCA573-E18E-4ECD-A001-704E381E39F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3CCA573-E18E-4ECD-A001-704E381E39F6}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CCA573-E18E-4ECD-A001-704E381E39F6}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{3BE17419-CB4D-484D-BD75-1EA60EA4E5F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE17419-CB4D-484D-BD75-1EA60EA4E5F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE17419-CB4D-484D-BD75-1EA60EA4E5F6}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE17419-CB4D-484D-BD75-1EA60EA4E5F6}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{CA32CB02-EBB6-4A61-8A15-B8744864696B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA32CB02-EBB6-4A61-8A15-B8744864696B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA32CB02-EBB6-4A61-8A15-B8744864696B}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA32CB02-EBB6-4A61-8A15-B8744864696B}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30EBE930-86A2-4D34-B5E3-A6F72E534A34}
+	EndGlobalSection
+EndGlobal

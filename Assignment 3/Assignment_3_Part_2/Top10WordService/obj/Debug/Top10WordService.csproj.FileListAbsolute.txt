@@ -1,0 +1,7 @@
+c:\users\owner\source\repos\Assignment_3_Part_2\Top10WordService\bin\Top10WordService.dll.config
+c:\users\owner\source\repos\Assignment_3_Part_2\Top10WordService\bin\Top10WordService.dll
+c:\users\owner\source\repos\Assignment_3_Part_2\Top10WordService\bin\Top10WordService.pdb
+c:\users\owner\source\repos\Assignment_3_Part_2\Top10WordService\obj\Debug\Top10WordService.csprojResolveAssemblyReference.cache
+c:\users\owner\source\repos\Assignment_3_Part_2\Top10WordService\obj\Debug\Top10WordService.csproj.CoreCompileInputs.cache
+c:\users\owner\source\repos\Assignment_3_Part_2\Top10WordService\obj\Debug\Top10WordService.dll
+c:\users\owner\source\repos\Assignment_3_Part_2\Top10WordService\obj\Debug\Top10WordService.pdb

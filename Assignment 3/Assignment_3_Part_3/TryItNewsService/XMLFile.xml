@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<NewsSource>
+  <source>
+    <name>Al Jajeera</name>
+    <url>https://newsapi.org/v1/articles?source=al-jazeera-english&#38;sortBy=top&#38;apiKey=637173a62c3c4616a2d338f23cc53d8a</url>
+  </source>
+  <source>
+    <name>ABC News</name>
+    <url>https://newsapi.org/v1/articles?source=abc-news-au&#38;sortBy=top&#38;apiKey=637173a62c3c4616a2d338f23cc53d8a</url>
+  </source>
+  <source>
+    <name>BBC News</name>
+    <url>https://newsapi.org/v1/articles?source=bbc-news&#38;sortBy=top&#38;apiKey=637173a62c3c4616a2d338f23cc53d8a</url>
+  </source>
+  <source>
+    <name>CNBC</name>
+    <url>https://newsapi.org/v1/articles?source=cnbc&#38;sortBy=top&#38;apiKey=637173a62c3c4616a2d338f23cc53d8a</url>
+  </source>
+  <source>
+    <name>CNN</name>
+    <url>https://newsapi.org/v1/articles?source=cnn&#38;sortBy=top&#38;apiKey=637173a62c3c4616a2d338f23cc53d8a</url>
+  </source>
+  <source>
+    <name>ESPN</name>
+    <url>https://newsapi.org/v1/articles?source=espn&#38;sortBy=top&#38;apiKey=637173a62c3c4616a2d338f23cc53d8a</url>
+  </source>
+  <source>
+    <name>Financial Times</name>
+    <url>https://newsapi.org/v1/articles?source=financial-times&#38;sortBy=top&#38;apiKey=637173a62c3c4616a2d338f23cc53d8a</url>
+  </source>
+  <source>
+    <name>Fox Sports</name>
+    <url>https://newsapi.org/v1/articles?source=fox-sports&#38;sortBy=top&#38;apiKey=637173a62c3c4616a2d338f23cc53d8a</url>
+  </source>
+  <source>
+    <name>The Hindu</name>
+    <url>https://newsapi.org/v1/articles?source=the-hindu&#38;sortBy=top&#38;apiKey=637173a62c3c4616a2d338f23cc53d8a</url>
+  </source>
+  <source>
+    <name>The Wall Street Journal</name>
+    <url>https://newsapi.org/v1/articles?source=the-wall-street-journal&#38;sortBy=top&#38;apiKey=637173a62c3c4616a2d338f23cc53d8a</url>
+  </source>
+ </NewsSource>

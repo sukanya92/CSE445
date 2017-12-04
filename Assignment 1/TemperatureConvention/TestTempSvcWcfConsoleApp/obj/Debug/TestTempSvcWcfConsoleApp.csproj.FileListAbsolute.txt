@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\TemperatureConvention\TestTempSvcWcfConsoleApp\bin\Debug\TestTempSvcWcfConsoleApp.exe.config
+C:\Users\Owner\source\repos\TemperatureConvention\TestTempSvcWcfConsoleApp\bin\Debug\TestTempSvcWcfConsoleApp.exe
+C:\Users\Owner\source\repos\TemperatureConvention\TestTempSvcWcfConsoleApp\bin\Debug\TestTempSvcWcfConsoleApp.pdb
+C:\Users\Owner\source\repos\TemperatureConvention\TestTempSvcWcfConsoleApp\obj\Debug\TestTempSvcWcfConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Owner\source\repos\TemperatureConvention\TestTempSvcWcfConsoleApp\obj\Debug\TestTempSvcWcfConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\TemperatureConvention\TestTempSvcWcfConsoleApp\obj\Debug\TestTempSvcWcfConsoleApp.exe
+C:\Users\Owner\source\repos\TemperatureConvention\TestTempSvcWcfConsoleApp\obj\Debug\TestTempSvcWcfConsoleApp.pdb

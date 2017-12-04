@@ -1,0 +1,9 @@
+C:\Users\Owner\source\repos\TemperatureConvention\SukanyasBrowser\bin\Release\SukanyasBrowser.exe.config
+C:\Users\Owner\source\repos\TemperatureConvention\SukanyasBrowser\bin\Release\SukanyasBrowser.exe
+C:\Users\Owner\source\repos\TemperatureConvention\SukanyasBrowser\bin\Release\SukanyasBrowser.pdb
+C:\Users\Owner\source\repos\TemperatureConvention\SukanyasBrowser\obj\Release\SukanyasBrowser.Form1.resources
+C:\Users\Owner\source\repos\TemperatureConvention\SukanyasBrowser\obj\Release\SukanyasBrowser.Properties.Resources.resources
+C:\Users\Owner\source\repos\TemperatureConvention\SukanyasBrowser\obj\Release\SukanyasBrowser.csproj.GenerateResource.Cache
+C:\Users\Owner\source\repos\TemperatureConvention\SukanyasBrowser\obj\Release\SukanyasBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\TemperatureConvention\SukanyasBrowser\obj\Release\SukanyasBrowser.exe
+C:\Users\Owner\source\repos\TemperatureConvention\SukanyasBrowser\obj\Release\SukanyasBrowser.pdb

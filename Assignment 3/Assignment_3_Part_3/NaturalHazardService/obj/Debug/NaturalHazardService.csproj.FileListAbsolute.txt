@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\Assignment_3_Part_3\NaturalHazardService\bin\NaturalHazardService.dll.config
+C:\Users\Owner\source\repos\Assignment_3_Part_3\NaturalHazardService\bin\NaturalHazardService.dll
+C:\Users\Owner\source\repos\Assignment_3_Part_3\NaturalHazardService\bin\NaturalHazardService.pdb
+C:\Users\Owner\source\repos\Assignment_3_Part_3\NaturalHazardService\obj\Debug\NaturalHazardService.csprojResolveAssemblyReference.cache
+C:\Users\Owner\source\repos\Assignment_3_Part_3\NaturalHazardService\obj\Debug\NaturalHazardService.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Assignment_3_Part_3\NaturalHazardService\obj\Debug\NaturalHazardService.dll
+C:\Users\Owner\source\repos\Assignment_3_Part_3\NaturalHazardService\obj\Debug\NaturalHazardService.pdb

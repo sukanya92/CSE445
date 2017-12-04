@@ -1,0 +1,8 @@
+c:\users\owner\source\repos\Assignment_3_Part_2\WindEnergyService\bin\App_Data\10yr_wspd50m
+c:\users\owner\source\repos\Assignment_3_Part_2\WindEnergyService\bin\WindEnergyService.dll.config
+c:\users\owner\source\repos\Assignment_3_Part_2\WindEnergyService\bin\WindEnergyService.dll
+c:\users\owner\source\repos\Assignment_3_Part_2\WindEnergyService\bin\WindEnergyService.pdb
+c:\users\owner\source\repos\Assignment_3_Part_2\WindEnergyService\obj\Debug\WindEnergyService.csprojResolveAssemblyReference.cache
+c:\users\owner\source\repos\Assignment_3_Part_2\WindEnergyService\obj\Debug\WindEnergyService.csproj.CoreCompileInputs.cache
+c:\users\owner\source\repos\Assignment_3_Part_2\WindEnergyService\obj\Debug\WindEnergyService.dll
+c:\users\owner\source\repos\Assignment_3_Part_2\WindEnergyService\obj\Debug\WindEnergyService.pdb

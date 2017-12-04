@@ -1,0 +1,9 @@
+C:\Users\Owner\source\repos\TemperatureConvention\TemperatureConversionFormApp\bin\Release\TemperatureConversionFormApp.exe.config
+C:\Users\Owner\source\repos\TemperatureConvention\TemperatureConversionFormApp\bin\Release\TemperatureConversionFormApp.exe
+C:\Users\Owner\source\repos\TemperatureConvention\TemperatureConversionFormApp\bin\Release\TemperatureConversionFormApp.pdb
+C:\Users\Owner\source\repos\TemperatureConvention\TemperatureConversionFormApp\obj\Release\TemperatureConversionFormApp.Form1.resources
+C:\Users\Owner\source\repos\TemperatureConvention\TemperatureConversionFormApp\obj\Release\TemperatureConversionFormApp.Properties.Resources.resources
+C:\Users\Owner\source\repos\TemperatureConvention\TemperatureConversionFormApp\obj\Release\TemperatureConversionFormApp.csproj.GenerateResource.Cache
+C:\Users\Owner\source\repos\TemperatureConvention\TemperatureConversionFormApp\obj\Release\TemperatureConversionFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\TemperatureConvention\TemperatureConversionFormApp\obj\Release\TemperatureConversionFormApp.exe
+C:\Users\Owner\source\repos\TemperatureConvention\TemperatureConversionFormApp\obj\Release\TemperatureConversionFormApp.pdb

@@ -1,0 +1,8 @@
+C:\Users\Owner\source\repos\CSE_445_Assignment_4_Part_2\Web_Operation_Transformation\bin\Web_Operation_Transformation.dll.config
+C:\Users\Owner\source\repos\CSE_445_Assignment_4_Part_2\Web_Operation_Transformation\bin\Web_Operation_Transformation.dll
+C:\Users\Owner\source\repos\CSE_445_Assignment_4_Part_2\Web_Operation_Transformation\bin\Web_Operation_Transformation.pdb
+C:\Users\Owner\source\repos\CSE_445_Assignment_4_Part_2\Web_Operation_Transformation\obj\Debug\Web_Operation_Transformation.csprojResolveAssemblyReference.cache
+C:\Users\Owner\source\repos\CSE_445_Assignment_4_Part_2\Web_Operation_Transformation\obj\Debug\Web_Operation_Transformation.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\CSE_445_Assignment_4_Part_2\Web_Operation_Transformation\obj\Debug\Web_Operation_Transformation.dll
+C:\Users\Owner\source\repos\CSE_445_Assignment_4_Part_2\Web_Operation_Transformation\obj\Debug\Web_Operation_Transformation.pdb
+C:\Users\Owner\source\repos\CSE_445_Assignment_4_Part_2\Web_Operation_Transformation\bin\App_Data\Movies.html

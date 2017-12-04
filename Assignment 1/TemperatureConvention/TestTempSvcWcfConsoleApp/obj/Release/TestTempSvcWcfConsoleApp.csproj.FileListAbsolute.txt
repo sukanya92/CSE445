@@ -1,0 +1,6 @@
+C:\Users\Owner\source\repos\TemperatureConvention\TestTempSvcWcfConsoleApp\bin\Release\TestTempSvcWcfConsoleApp.exe.config
+C:\Users\Owner\source\repos\TemperatureConvention\TestTempSvcWcfConsoleApp\bin\Release\TestTempSvcWcfConsoleApp.exe
+C:\Users\Owner\source\repos\TemperatureConvention\TestTempSvcWcfConsoleApp\bin\Release\TestTempSvcWcfConsoleApp.pdb
+C:\Users\Owner\source\repos\TemperatureConvention\TestTempSvcWcfConsoleApp\obj\Release\TestTempSvcWcfConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\TemperatureConvention\TestTempSvcWcfConsoleApp\obj\Release\TestTempSvcWcfConsoleApp.exe
+C:\Users\Owner\source\repos\TemperatureConvention\TestTempSvcWcfConsoleApp\obj\Release\TestTempSvcWcfConsoleApp.pdb

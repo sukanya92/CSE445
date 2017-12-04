@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Movies  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/MovieSchema MovieSchema.xsd ">
+  <Movie Rating="G">
+    <Title Runtime="94">
+      <Title>Life of Pi</Title>
+    </Title>
+    <Genre>Fiction</Genre>
+    <Director>
+      <Name High-rated_movie="Pushing Hands">
+        <FirstName>Ang</FirstName>
+        <LastName>Lee</LastName>
+      </Name>
+    </Director>
+    <Studio>20th Century Fox</Studio>
+    <Year>2012</Year>
+  </Movie>
+  <Movie Rating="G">
+  	<Title>
+  		<Title>Tears of the Sun</Title>
+  	</Title>
+  	<Genre>War</Genre>
+  	<Director>
+  		<Name High-rated_movie="Bait">
+  			<FirstName>Antoine</FirstName>
+  			<LastName>Fuqua</LastName>
+  		</Name>
+  	</Director>
+  	<Studio>Revolution Studios</Studio>
+  	<Year>2003</Year>
+  </Movie>
+  <Movie Rating="PG">
+  	<Title>
+  		<Title>Inglorious Bastards</Title>
+  	</Title>
+  	<Genre>War</Genre>
+  	<Director>
+  		<Name>
+  			<FirstName>Eli</FirstName>
+  			<LastName>Roth</LastName>
+  		</Name>
+  	</Director>
+  	<Director>
+  		<Name>
+  			<FirstName>Quentin</FirstName>
+  			<LastName>Tarantino</LastName>
+  		</Name>
+  	</Director>
+  	  	<Director>
+  		<Name>
+  			<FirstName>Samba</FirstName>
+  			<LastName>Manga</LastName>
+  		</Name>
+  	</Director>
+  	<Studio>Studio Babelsberg</Studio>
+  	<Year>2009</Year>
+  </Movie>
+  <Movie Rating="G">
+  	<Title>
+  		<Title>Slumdog Millionaire</Title>
+  	</Title>
+  	<Genre>Drama</Genre>
+  	<Director>
+  		<Name>
+  			<FirstName>Danny</FirstName>
+  			<LastName>Boyle</LastName>
+  		</Name>
+  	</Director>
+  	<Studio>Film4</Studio>
+  	<Year>2008</Year>
+  </Movie>
+  <Movie Rating="PG">
+  	<Title>
+  		<Title>Titanic</Title>
+  	</Title>
+  	<Genre>Disaster</Genre>
+  	<Director>
+  		<Name>
+  			<FirstName>James</FirstName>
+  			<LastName>Cameron</LastName>
+  		</Name>
+  	</Director>
+  	<Studio>Paramount Pictures</Studio>
+  	<Year>1997</Year>
+  </Movie>
+  <Movie Rating="PG">
+  	<Title>
+  		<Title>The Man in The Iron Mask</Title>
+  	</Title>
+  	<Genre>Action Drama</Genre>
+  	<Director>
+  		<Name>
+  			<FirstName>Randall</FirstName>
+  			<LastName>Wallace</LastName>
+  		</Name>
+  	</Director>
+  	<Studio>United Artists Corporation</Studio>
+  	<Year>1998</Year>
+  </Movie>
+  <Movie Rating="G">
+  	<Title>
+  		<Title>The Bridge on the River Kwai</Title>
+  	</Title>
+  	<Genre>War</Genre>
+  	<Director>
+  		<Name>
+  			<FirstName>David</FirstName>
+  			<LastName>Lean</LastName>
+  		</Name>
+  	</Director>
+  	<Studio>Horizon Pictures</Studio>
+  	<Year>1957</Year>
+  </Movie>
+  <Movie Rating="G">
+  	<Title>
+  		<Title>The Third Man</Title>
+  	</Title>
+  	<Genre>War</Genre>
+  	<Director>
+  		<Name>
+  			<FirstName>Carol</FirstName>
+  			<LastName>Reed</LastName>
+  		</Name>
+  	</Director>
+  	<Studio>London Films</Studio>
+  	<Year>1949</Year>
+  </Movie>
+  <Movie Rating="PG">
+  	<Title>
+  		<Title>Camp Nowhere</Title>
+  	</Title>
+  	<Genre>Adventure Comedy</Genre>
+  	<Director>
+  		<Name>
+  			<FirstName>Jonathan</FirstName>
+  			<LastName>Prince</LastName>
+  		</Name>
+  	</Director>
+  	<Studio>Hollywood Pictures</Studio>
+  	<Year>1994</Year>
+  </Movie>
+  <Movie Rating="G">
+  	<Title>
+  		<Title>The Last Samurai</Title>
+  	</Title>
+  	<Genre>Drama War</Genre>
+  	<Director>
+  		<Name>
+  			<FirstName>Edward</FirstName>
+  			<LastName>Zwick</LastName>
+  		</Name>
+  	</Director>
+  	<Studio>Radar Pictures</Studio>
+  	<Year>2003</Year>
+  </Movie>
+</Movies>

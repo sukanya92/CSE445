@@ -1,0 +1,9 @@
+C:\Users\Owner\source\repos\Assignment_3_Part_3\Team37_Elected_Service_Sukanya\bin\Team37_Elected_Service_Sukanya.dll.config
+C:\Users\Owner\source\repos\Assignment_3_Part_3\Team37_Elected_Service_Sukanya\bin\Team37_Elected_Service_Sukanya.dll
+C:\Users\Owner\source\repos\Assignment_3_Part_3\Team37_Elected_Service_Sukanya\bin\Team37_Elected_Service_Sukanya.pdb
+C:\Users\Owner\source\repos\Assignment_3_Part_3\Team37_Elected_Service_Sukanya\bin\Newtonsoft.Json.dll
+C:\Users\Owner\source\repos\Assignment_3_Part_3\Team37_Elected_Service_Sukanya\bin\Newtonsoft.Json.xml
+C:\Users\Owner\source\repos\Assignment_3_Part_3\Team37_Elected_Service_Sukanya\obj\Debug\Team37_Elected_Service_Sukanya.csprojResolveAssemblyReference.cache
+C:\Users\Owner\source\repos\Assignment_3_Part_3\Team37_Elected_Service_Sukanya\obj\Debug\Team37_Elected_Service_Sukanya.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Assignment_3_Part_3\Team37_Elected_Service_Sukanya\obj\Debug\Team37_Elected_Service_Sukanya.dll
+C:\Users\Owner\source\repos\Assignment_3_Part_3\Team37_Elected_Service_Sukanya\obj\Debug\Team37_Elected_Service_Sukanya.pdb

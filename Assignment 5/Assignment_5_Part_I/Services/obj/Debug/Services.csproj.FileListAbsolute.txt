@@ -1,0 +1,30 @@
+C:\Users\Owner\source\repos\CSE_445_A5_Part1 (2)\Services\bin\App_Data\10yr_wspd50m
+C:\Users\Owner\source\repos\CSE_445_A5_Part1 (2)\Services\bin\Services.dll.config
+C:\Users\Owner\source\repos\CSE_445_A5_Part1 (2)\Services\bin\Services.dll
+C:\Users\Owner\source\repos\CSE_445_A5_Part1 (2)\Services\bin\Services.pdb
+C:\Users\Owner\source\repos\CSE_445_A5_Part1 (2)\Services\bin\Newtonsoft.Json.dll
+C:\Users\Owner\source\repos\CSE_445_A5_Part1 (2)\Services\bin\Newtonsoft.Json.xml
+C:\Users\Owner\source\repos\CSE_445_A5_Part1 (2)\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\Owner\source\repos\CSE_445_A5_Part1 (2)\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\CSE_445_A5_Part1 (2)\Services\obj\Debug\Services.dll
+C:\Users\Owner\source\repos\CSE_445_A5_Part1 (2)\Services\obj\Debug\Services.pdb
+C:\Users\Abhinethri\Desktop\DSOD\Assignment_5_Part_I\Assignment_5_Part_I\Services\bin\App_Data\10yr_wspd50m
+C:\Users\Abhinethri\Desktop\DSOD\Assignment_5_Part_I\Assignment_5_Part_I\Services\bin\Services.dll.config
+C:\Users\Abhinethri\Desktop\DSOD\Assignment_5_Part_I\Assignment_5_Part_I\Services\bin\Services.dll
+C:\Users\Abhinethri\Desktop\DSOD\Assignment_5_Part_I\Assignment_5_Part_I\Services\bin\Services.pdb
+C:\Users\Abhinethri\Desktop\DSOD\Assignment_5_Part_I\Assignment_5_Part_I\Services\bin\Newtonsoft.Json.dll
+C:\Users\Abhinethri\Desktop\DSOD\Assignment_5_Part_I\Assignment_5_Part_I\Services\bin\Newtonsoft.Json.xml
+C:\Users\Abhinethri\Desktop\DSOD\Assignment_5_Part_I\Assignment_5_Part_I\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\Abhinethri\Desktop\DSOD\Assignment_5_Part_I\Assignment_5_Part_I\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Abhinethri\Desktop\DSOD\Assignment_5_Part_I\Assignment_5_Part_I\Services\obj\Debug\Services.dll
+C:\Users\Abhinethri\Desktop\DSOD\Assignment_5_Part_I\Assignment_5_Part_I\Services\obj\Debug\Services.pdb
+C:\Users\Owner\source\repos\Assignment_5_Part_I\Services\bin\App_Data\10yr_wspd50m
+C:\Users\Owner\source\repos\Assignment_5_Part_I\Services\bin\Services.dll.config
+C:\Users\Owner\source\repos\Assignment_5_Part_I\Services\bin\Services.dll
+C:\Users\Owner\source\repos\Assignment_5_Part_I\Services\bin\Services.pdb
+C:\Users\Owner\source\repos\Assignment_5_Part_I\Services\bin\Newtonsoft.Json.dll
+C:\Users\Owner\source\repos\Assignment_5_Part_I\Services\bin\Newtonsoft.Json.xml
+C:\Users\Owner\source\repos\Assignment_5_Part_I\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\Owner\source\repos\Assignment_5_Part_I\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Assignment_5_Part_I\Services\obj\Debug\Services.dll
+C:\Users\Owner\source\repos\Assignment_5_Part_I\Services\obj\Debug\Services.pdb
